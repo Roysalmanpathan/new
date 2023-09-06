@@ -1,0 +1,402 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body
+{
+ /* overflow-x: hidden; */
+}
+input
+{
+    transform: translate(-300px,20px);
+    height: 40px;
+    width: 20%;
+}
+.aaa
+{
+    background-image: url(slider-bg.jpg);
+    background-repeat: no-repeat;
+    /* background-color: rgba(111, 111, 165,.5); */
+    width: 100%;
+    height: 100vh;
+    /* justify-content: center;
+    align-items: center; */
+    text-align: center;
+}
+ .aaa button
+{
+    transform: translate(100%,110%);
+    background: transparent;
+    border: none;
+    width: 100px;
+    font-size: 15px;
+}
+
+ .aa2
+{
+    color: aliceblue;
+    transform: translate(-6%,150%);
+    align-items: center;
+} 
+.aa3
+{
+    background-color: rgba(29, 29, 131, 0.9);
+    height: 100vh;
+}
+b
+{
+    color: aliceblue;
+    font-size: 30px;
+}
+.ai
+{
+    transform: translate(95%,60%);
+}
+.GH
+{
+    background-color: aliceblue;
+}
+
+
+.aaa .pop
+{
+    transform: translate(-20%,-30%); 
+}
+
+.far
+{
+    transform: translate(50px);
+    background-color: aliceblue;
+}
+
+.aas
+{
+    width: 100%;
+    height: 25vh;
+    background-color: brown;
+    font-size:3px;
+    display: flex;
+}
+.aas .iii
+{
+  
+    display: flex;
+    width: 100%;
+   
+}
+.drpdwn
+{
+    background-color: aliceblue;
+}
+.dropdown
+{
+    background-color: aliceblue;
+    width: 20px;
+    height: 50px;
+}
+.aas h6
+{
+    font-size: 20px;
+    margin: 45px;
+    transform: translate(10%,10%); 
+    display: block;
+    
+}
+.aas .ii1
+{
+    background-image: url(c1.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    transform: translate(10%,10%);
+
+}
+.aas .ii2
+{
+    background-image: url(c2.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    transform: translate(0%,10%);
+}
+.aas .ii3
+{
+    background-image: url(c3.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    transform: translate(0%,10%);
+}
+.aas .ii4
+{
+    background-image: url(c4.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    transform: translate(0%,10%);
+}
+.aas .ii5
+{
+    background-image: url(c5.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    transform: translate(10%,10%);
+}
+.aas .ii6
+{
+    background-image: url(c6.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    transform: translate(10%,10%);
+}
+.vvv
+{
+    width: 100%;
+    height: 70vh;
+    /* background-color: aqua; */
+  
+
+
+}
+.vv1
+{
+    width: 500px;
+    transform: translate(30%,60%);
+}
+.vv2 
+{
+    background-image: url(about-img.jpg);
+    background-repeat: no-repeat;
+    transform: translate(140%,-40%);
+    background-size: 100%;
+    width: 40%;
+    height: 50vh;
+    border-radius: 8px;
+
+ 
+}
+.vv1 h1 b
+{
+    color: black;
+}
+.vv1 button
+{
+    width: 150px;
+    height: 5vh;
+    border-radius: 8px;
+    background-color: rgb(24, 24, 143);
+    color: aliceblue;
+
+}
+.delet
+{
+    height: 150vh;
+    width: 100%;
+    background-color: rgb(12, 12, 75);
+}
+.delet h1
+{
+    color: aliceblue;
+    transform: translate(400px,60px);
+}
+.delet h4
+{
+    color: aliceblue;
+    transform: translate(120px,100px);
+}
+#lock
+{
+    height: 25vh;
+    width: 40%;
+    border: 2px solid red;
+    transform: translate(100px,-950px);
+}
+#lock2
+{
+    height: 25vh;
+    width: 40%;
+    border: 2px solid red;
+    transform: translate(700px,-1144px);
+}
+#lock3
+{
+    height: 25vh;
+    width: 40%;
+    border: 2px solid red;
+    transform: translate(100px,-1100px);
+}
+#lock4
+{
+    height: 25vh;
+    width: 40%;
+    border: 2px solid red;
+    transform: translate(700px,-1295px);
+}
+#lock5
+{
+    height: 25vh;
+    width: 40%;
+    border: 2px solid red;
+    transform: translate(100px,-1250px);
+}
+#lock6
+{
+    height: 25vh;
+    width: 40%;
+    border: 2px solid red;
+    transform: translate(700px,-1450px);
+}
+.hon
+{
+    transform: translate(100px,-1100px);
+    color: aliceblue;
+    
+}
+.abc
+{
+    height: 15vh;
+    width: 20%;
+    background-image:url(job_logo1.png);
+    background-repeat: no-repeat;
+    background-size: 60px;
+    /* background-color: aliceblue; */
+    background-position: 20px;
+}
+#lock h5
+{
+    color: aliceblue;
+    transform: translate(100px,-90px );
+
+}
+#lock i
+{
+    transform: translate(100px,-70px);
+}
+#lock p
+{
+    transform: translate(120px,-90px);
+    color: aliceblue;
+}
+#lock p i
+{
+    transform: translate(0px,0px);
+}
+#lock  button
+{
+    color: aliceblue;
+    background-color: blue;
+   height: 30px;
+   width: 120px;
+   transform: translate(430px,-90px);
+   border: none;
+}
+
+.jjj
+{
+    width: 100%;
+    height: 50vh;
+    background-color: aquamarine;
+}
+.abc1
+{
+    height: 15vh;
+    width: 20%;
+    background-image:url(job_logo2.png);
+    background-repeat: no-repeat;
+    background-size: 60px;
+    /* background-color: aliceblue ; */
+    background-position: 20px;
+}
+#man i
+{
+    transform: translate(400px,-60px);
+}
+#lock2 h5
+{
+    color: aliceblue;
+    transform: translate(100px,-90px );
+
+
+}
+#lock2 i
+{
+    transform: translate(100px,-80px);
+}
+#lock2 p
+{
+    transform: translate(120px,-100px);
+    color: aliceblue;
+}
+#lock2 p i
+{
+    transform: translate(0px,0px);
+}
+#sal i
+{
+    transform: translate(400px,-80px);
+}
+#lock2  button
+{
+    color: aliceblue;
+    background-color: blue;
+   height: 30px;
+   width: 120px;
+   transform: translate(430px,-110px);
+   border: none;
+}
+.abc2
+{
+    height: 15vh;
+    width: 20%;
+    background-image:url(job_logo2.png);
+    background-repeat: no-repeat;
+    background-size: 60px;
+    /* background-color: aliceblue ; */
+    background-position: 20px;
+}
+#lock3 h5
+{
+    color: aliceblue;
+    transform: translate(100px,-90px );
+}
+#lock3 i
+{
+    transform: translate(100px,-80px);
+}
+#lock3 p
+{
+    transform: translate(120px,-100px);
+    color: aliceblue;
+}
+#lock3 p i
+{
+    transform: translate(0px,0px);
+}
+#pol i
+{
+    transform: translate(400px,-60px);
+
+}
+#lock3  button
+{
+    color: aliceblue;
+    background-color: blue;
+   height: 30px;
+   width: 120px;
+   transform: translate(430px,-90px);
+   border: none;
+}
+.abc3
+{
+    height: 15vh;
+    width: 20%;
+    background-image:url(job_logo2.png);
+    background-repeat: no-repeat;
+    background-size: 60px;
+    /* background-color: aliceblue ; */
+    background-position: 20px;
+}
+#lock4 h5
+{
+    color: aliceblue;
+    transform: translate(100px,-90px );
+}
